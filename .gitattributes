@@ -5,6 +5,21 @@
     <meta name="viewport" content="width=device-width", initial-scale="1.0" />
     <title>Studio</title>
   </head>
-  <body>
-<header>
-    <a href="index.html">WebStudio</a>
+ <body>
+  <header>
+    <h3><a href="index.html">WebStudio</a></h3>
+    <ul>
+      Menu nawigacyjne do innych stron
+    </ul>
+    
+
+</header>
+
+<main>
+</main>
+
+<footer>
+</footer>
+
+</body>
+</html>
