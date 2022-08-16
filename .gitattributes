@@ -22,7 +22,47 @@
 </header>
 
 <main>
+<section>
+<h1> EFEKTYWNE ROZWIĄZANIA DLA WASZEGO BIZNESU </h1>
+<button type="button"> Zamów usługę </button>
+</section>
 
+<section>
+<ul>
+<li> <h3> Lorem impsum </h3>
+<p> Lorem ipsum dolor sit amet, consectetur <br>
+adipiscing elit. Nam vel arcu sem. Sed <br>
+non sodales dui. Interdum et malesuada
+</p>
+<li> <h3> Lorem impsum </h3>
+<p> Lorem ipsum dolor sit amet, consectetur <br>
+adipiscing elit. Nam vel arcu sem. Sed <br>
+non sodales dui. Interdum et malesuada
+</p>
+<li> <h3> Lorem impsum </h3>
+<p> Lorem ipsum dolor sit amet, consectetur <br>
+adipiscing elit. Nam vel arcu sem. Sed <br>
+non sodales dui. Interdum et malesuada
+</p>
+<li> <h3> Lorem impsum </h3>
+<p> Lorem ipsum dolor sit amet, consectetur <br>
+adipiscing elit. Nam vel arcu sem. Sed <br>
+non sodales dui. Interdum et malesuada
+</p>
+</section>
+
+<section>
+<h2> Czym się zajmujemy </h2>
+<ul>
+<li> <img
+  src=""
+  alt="Tworzenie kodu strony"
+  width="370"
+  height="294"
+/> 
+
+</ul>
+</section>
 
 </main>
 
